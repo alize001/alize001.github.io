@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Alize Portfolio</title>
+<title>Alize's Portfolio</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
  <!-- Latest compiled and minified CSS -->
@@ -12,9 +12,9 @@
 
 <!-- Popper JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-
+/Users/alizefletcher-carrillo/Documents/GitHub/alize001.github.io/index.html
 <!-- Latest compiled JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>  
 </head>
 <body>
 
@@ -27,13 +27,18 @@
     <li class="nav-item"><a class="nav-link" href="minecraft.html">minecraft</a>      <li>
     <li class="nav-item"><a class="nav-link" href="netart.html">net-art</a></li>
     <li class="nav-item"><a class="nav-link" href="code-as-art.html">code art</a></li>
-	<li class="nav-item"><a class="nav-link" href="ai.html">art intel</a></li>
+     <li class="nav-item"><a class="nav-link" href="diyps.html">diyps</a></li>
 </ul> 
 </nav>
 
-<a  href="selfie.html">selfie</a></li
-<br />
-<a  href="diyps.js">diyps</a></li
-
+</ul> 
+</nav>
+    <div class="header">Net Art</div>
+    <div class="bodytext"> For this Net Art project we were to use HTML and CSS to create a website that brings you along through a story. For me, I wanted to tell the story of the riot of StoneWall and it's signifigance to LGBT History.</div>
+        <div class="netart"><a href="anotherriot.html">view number two</a>
+        <div class="img"><a href="https://alize001.github.io/index.html"><img src="stonewall1.jpg" width=700></a></div>
+    
+    <div class="footer">AFC</div>
+</div>
 </body>
 </html>
